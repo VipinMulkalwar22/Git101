@@ -1,4 +1,0 @@
-This is the devlopment file, testing Revert and Rebase
-This is a good commit
-This is a fine commit
-This is a wrong commmit
